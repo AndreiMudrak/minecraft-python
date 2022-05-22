@@ -1,4 +1,5 @@
-Repository: minecraft-python
+Repository: minecraft-python  
+short URL: tinyurl.com/github-andr
 
 # Установка ПО
 
