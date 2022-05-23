@@ -12,7 +12,13 @@ short URL: tinyurl.com/github-andr
   * Устанавливаем модуль `mcpi` через pip
     * `pip install mcpi`
 4. Устанавливаем редактор кода [vscode](https://code.visualstudio.com/docs/setup/windows)
-5. [Edge + google translate extension](https://microsoftedge.microsoft.com/addons/detail/google-translate-in-right/fcoongackakfdmiincikmjgkedcgjkdp)
+5. Edge change language
+  * Open Microsoft Edge.
+  * Click the Settings and more (three-dotted) button.
+  * Select the Settings option.
+  * Click on Languages.
+  * Click the Add languages button.
+7. [Edge + google translate extension](https://microsoftedge.microsoft.com/addons/detail/google-translate-in-right/fcoongackakfdmiincikmjgkedcgjkdp)
 
 * install server YouTube video [How to: Set up a 1.18.1+ Spigot/Bukkit Minecraft Server](https://www.youtube.com/watch?v=BqWWXHPO_2U&ab_channel=TroubleChute)
   * [installation](https://www.spigotmc.org/wiki/spigot-installation/)
