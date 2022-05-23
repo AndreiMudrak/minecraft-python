@@ -13,3 +13,5 @@ short URL: tinyurl.com/github-andr
     * `pip install mcpi`
 4. Устанавливаем редактор кода [vscode](https://code.visualstudio.com/docs/setup/windows)
 
+* install server [How to: Set up a 1.18.1+ Spigot/Bukkit Minecraft Server](https://www.youtube.com/watch?v=BqWWXHPO_2U&ab_channel=TroubleChute)
+
