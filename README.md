@@ -11,14 +11,17 @@ short URL: tinyurl.com/github-andr
   * Через TLauncher устанавливаем Minecraft версию OptFine 1.18.2
 4. Устанавливаем редактор кода [vscode](https://code.visualstudio.com/docs/setup/windows)
 5. Устанавливаем [Python 3.10.x](https://www.python.org/downloads/windows/) + ставим галочку **add Path**!
+  * Проверка версии (Запкскаем в терминале vscode)
+    * `python`
+    * Должны увидеть `Python 3.10.x ...`
   * Устанавливаем модуль `mcpi` через pip
-  * `pip install mcpi`
+    * `pip install mcpi`
 6. Скачиваем 
   * [Ссылка на архив]()
   * Распаковываем архив в рабочую папку
   * Запускаем сервер
 7. или билдим сервер Minecraft
-  * Изменяем server.properties
+  * Изменяем server.properties (Error "Failed to verify username!") 
     * online-mode=true
   * Изменяем eula.txt
     * eula=true
