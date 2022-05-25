@@ -10,7 +10,7 @@ short URL: tinyurl.com/github-andr
 3. Устанавливаем ([TLauncher](https://tlauncher.org/))
   * Через TLauncher устанавливаем Minecraft версию OptFine 1.18.2
 4. Устанавливаем редактор кода [vscode](https://code.visualstudio.com/docs/setup/windows)
-5. Устанавливаем [Python 3.10.x](https://www.python.org/downloads/windows/) + ставим галочку **add Path**!
+5. Устанавливаем [Python 3.9.x](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe) + ставим галочку **add Path**!
   * Проверка версии (Запкскаем в терминале vscode)
     * `python`
     * Должны увидеть `Python 3.10.x ...`
