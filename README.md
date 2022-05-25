@@ -17,7 +17,7 @@ short URL: tinyurl.com/github-andr
   * Устанавливаем модуль `mcpi` через pip
     * `pip install mcpi`
 6. Скачиваем 
-  * [Ссылка на архив]()
+  * [Ссылка на архив](https://tinyurl.com/mysrv)
   * Распаковываем архив в рабочую папку
   * Запускаем сервер
 7. или билдим сервер Minecraft
