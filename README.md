@@ -36,7 +36,7 @@ short URL: tinyurl.com/github-andr
 1. Устанавливаем [Java 8](https://www.java.com/ru/download/manual.jsp)
 2. Устанавливаем [Python 3.9.x](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe) + ставим галочку **add Path**!
 3. Устанавливаем редактор кода [vscode](https://code.visualstudio.com/docs/setup/windows)
-4. Скачиваем Minecraft сервер. [Ссылка на архив](https://tinyurl.com/mysrv)
+4. Скачиваем Minecraft сервер. [Ссылка на архив](https://tinyurl.com/minesrv)
   * Распаковываем архив в Документы
 5. Устанавливаем ([TLauncher](https://tlauncher.org/))
 6. Перезагружаем компьютер
