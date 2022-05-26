@@ -1,5 +1,5 @@
-Repository: minecraft-python  
-short URL: tinyurl.com/github-andr
+Repository: **minecraft-python**  
+short URL: [tinyurl.com/github-andr](https://tinyurl.com/github-andr)
 
 # Подготовка компьютера к программированию на Python 3 в Minecraft
 
