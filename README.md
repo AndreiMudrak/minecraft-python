@@ -33,7 +33,7 @@ short URL: [tinyurl.com/github-andr](https://tinyurl.com/github-andr)
 
 ## Устанавливаем необходиомое программное обеспечение:
 
-1. Устанавливаем [Java 8](https://www.java.com/ru/download/manual.jsp)
+1. Устанавливаем [Java 8](https://java.com/en/download/windows_manual.jsp)
 2. Устанавливаем [Python 3.9.x](https://www.python.org/ftp/python/3.9.13/python-3.9.13-amd64.exe) + ставим галочку **add Path**!
 3. Устанавливаем редактор кода [vscode](https://code.visualstudio.com/docs/setup/windows)
 4. Скачиваем Minecraft сервер. [Ссылка на архив](https://tinyurl.com/minesrv)
@@ -71,6 +71,9 @@ short URL: [tinyurl.com/github-andr](https://tinyurl.com/github-andr)
   * Наберите **python** в открывшейся строке поиска
   * Установите **Python** IntelliSense от Microsoft кнопкой **Install**
 7. Перейдите в окно кода **firstCode.py** и нажмите сверху **Run** - **Start Debugging**
+  * Если ошибка mcpi, то в терминале выполняем:
+  * `pip install mcpi`
+  * Запускаем еще раз скрипт (**F5**)
 8. Должны увидеть координаты игрока из Майнкрафт в терминале и чате игры
 
 
