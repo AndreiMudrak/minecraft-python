@@ -39,7 +39,7 @@ short URL: [tinyurl.com/github-andr](https://tinyurl.com/github-andr)
 4. Скачиваем Minecraft сервер. [Ссылка на архив](https://tinyurl.com/minesrv)
   * Распаковываем архив в Документы
 5. Устанавливаем ([TLauncher](https://tlauncher.org/))
-6. Перезагружаем компьютер
+6. **Перезагружаем компьютер**
 
 
 ## Запускаем сервер Minecraft и подключаемся к нему
@@ -54,7 +54,7 @@ short URL: [tinyurl.com/github-andr](https://tinyurl.com/github-andr)
 8. После появления сообщения **Done** в черном окне переходим в игру Minecraft
   * Выбираем **Сетевая игра**
   * **Подключиться к серверу**
-  * Адрес сервера пишем: **localhost** и жмем **ОК**
+  * Адрес сервера пишем: **`localhost`** и жмем **ОК**
   * Должно появиться сообщение об успешном подключении в Minecraft и в черном окне
 
 
